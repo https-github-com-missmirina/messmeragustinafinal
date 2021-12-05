@@ -1,0 +1,7 @@
+echo "# messmeragustinafinal" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "primera confirmación" 
+git branch -M main 
+git remote agregar origen git@github.com: https-github-com-missmirina / messmeragustinafinal. git
+ git push -u origen principal
